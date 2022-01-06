@@ -1,4 +1,4 @@
-# 「まぴっどくん」(Mental and Postural Improvement Device)  
+# まぴっどくん(Mental and Postural Improvement Device)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/63711918/148423388-4a59263f-4349-4b4f-9524-d0f10f3b538c.png" /)
