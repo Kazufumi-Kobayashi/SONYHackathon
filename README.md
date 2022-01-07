@@ -12,13 +12,13 @@ Spresenseのハイレゾ音源再生機能を利用することでより効果�
 
 ## ドキュメント
 ### 取り扱い説明書
-[User Manual]()
+[User Manual](https://github.com/Kazufumi-Kobayashi/SONYHackathon/blob/master/Manual/User%20Manual.pdf)
 ### Raspberry Pi 1 (姿勢推定機能 + Manager)
-[RaspberryPi_POSE]()
+[RaspberryPi_POSE](https://github.com/Kazufumi-Kobayashi/SONYHackathon/blob/master/Manual/RaspberryPi_POSE.pdf)
 ### Raspberry Pi 2 (表情推定機能)
-[RaspberryPi_FACE]()
+[RaspberryPi_FACE](https://github.com/Kazufumi-Kobayashi/SONYHackathon/blob/master/Manual/RaspberryPi_FACE.pdf)
 ### Spresense (オーディオ+画面表示)
-[Spresense_ArduinoIDE]()
+[Spresense_ArduinoIDE](https://github.com/Kazufumi-Kobayashi/SONYHackathon/blob/master/Manual/Hackathon_Arduino.pdf)
 
 ## その他
 ### プレゼンテーション資料
